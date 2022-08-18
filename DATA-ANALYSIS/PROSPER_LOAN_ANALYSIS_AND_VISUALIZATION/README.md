@@ -1,9 +1,9 @@
 ## ProsperLoanData analysis and visualization
 
-## The dataset(ProsperLoanData)
+## The dataset( ProsperLoanData )
 
 > The dataset is about the loan acquisition and its characteristics and also its distribution throughout the states in the united states.
-  - The dataset contains 113937 rows and 81 columns(shape:(113937,81)).
+  - The dataset contains 113937 rows and 81 columns(shape:(113937, 81)).
   - It contains no null input across all columns.
 
 > The 81 rows of the dataset have been shuffled and 21 of the most important for the analysis and visualization were selected.
